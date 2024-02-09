@@ -1,0 +1,3613 @@
+{
+    "RESTAURANTS & DRINKS": [{
+            "name": "4th Quarter Sports Bar & Grill",
+            "business_type": "Bars, Coffee &\u00a0Drinks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/4thquarter/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/4thquarter/?hl=en"
+            },
+            "location": {
+                "location": "South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Abi Lounge",
+            "business_type": "Bars, Coffee &\u00a0Drinks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://abihookahlounge.business.site/"
+            },
+            "location": {
+                "location": " | Richardson",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Black Coffee",
+            "business_type": "Bars, Coffee &\u00a0Drinks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/blackcoffeefw/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/blackcoffeefw/"
+            },
+            "location": {
+                "location": " | Fort Worth",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Daiquiri Shoppe",
+            "business_type": "Bars, Coffee &\u00a0Drinks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://thedaiquirishoppe.com/"
+            },
+            "location": {
+                "location": " | Grand Prairie and Carrollton",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Frenchie Baule",
+            "business_type": "Bars, Coffee &\u00a0Drinks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.frenchiebuale.com/"
+            },
+            "location": {
+                "location": " | Available online",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Lea-Lea Daquiri Spot",
+            "business_type": "Bars, Coffee &\u00a0Drinks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.yelp.com/biz/lea-lea-daquiri-spot-dallas"
+            },
+            "location": {
+                "location": " | North Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Soir\u00e9e Coffee Bar",
+            "business_type": "Bars, Coffee &\u00a0Drinks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.dallasites101.com/listing/soiree-coffee-bar/802/"
+            },
+            "location": {
+                "location": " | Trinity Groves",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Sweet Beat Vodka",
+            "business_type": "Bars, Coffee &\u00a0Drinks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "http://sweetbeatvodka.com/"
+            },
+            "location": {
+                "location": " | Online or in liquor stores",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Tropic Thunder Daiquiris",
+            "business_type": "Bars, Coffee &\u00a0Drinks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/tropicthunderdaiquiri/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/tropicthunderdaiquiri/"
+            },
+            "location": {
+                "location": " | Arlington",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        }
+    ],
+    "Bakeries & Desserts": [],
+    "Barbecue": [],
+    "Burgers & Pizza": [{
+            "name": "Brickhouse Burgers & Shakes",
+            "business_type": "Burgers & Pizza",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.brickhouseburger.com/"
+            },
+            "location": {
+                "location": "\u00a0(pictured) | Lakewood",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "BurgerIM",
+            "business_type": "Burgers & Pizza",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://burgerim.com/"
+            },
+            "location": {
+                "location": " | Downtown West End",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Blackjack Pizza",
+            "business_type": "Burgers & Pizza",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.dallasites101.com/listing/blackjack-pizza/3052/"
+            },
+            "location": {
+                "location": "South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        }
+    ],
+    "Cajun & Southern": [{
+            "name": "Aunt Irene\u2019s Kitchen",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.dallasites101.com/listing/aunt-irenes-kitchen/1809/"
+            },
+            "location": {
+                "location": "\u00a0(pictured)Southeast Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Catfish Floyds",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.allmenus.com/tx/dallas/262760-catfish-floyds/menu/"
+            },
+            "location": {
+                "location": " | South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Chef Cassy's",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://chefcassy.com/?fbclid=IwAR01b4qCCxeLZmxwL4Y76LBextQcnjivr8qhCIVCNRgweLXe5xStAO_zbvw"
+            },
+            "location": {
+                "location": "State Fair & catering",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Daddy Mac\u2019s Chicken",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://daddymacschickentogo.com/"
+            },
+            "location": {
+                "location": " | Southwest Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Hall\u2019s Honey Fried Chicken",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.hallshoneyfriedchicken-md.com/"
+            },
+            "location": {
+                "location": " | Medical District",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Krab Kingz",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://tapterminals.com/krab-kingz-7/"
+            },
+            "location": {
+                "location": " | Richardson and DeSoto",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "LeRouge Cuisine",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.enterlerouge.com/"
+            },
+            "location": {
+                "location": " | Catering",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Restaurant Beatrice",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://restaurantbeatrice.com/"
+            },
+            "location": {
+                "location": " | Oak Cliff",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Roots Chicken Shak",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.legacyfoodhall.com/vendor/roots-chicken-shak/"
+            },
+            "location": {
+                "location": " | Legacy Hall",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Roots Southern Table",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.dallasites101.com/listing/roots-southern-table/1867/"
+            },
+            "location": {
+                "location": " | Farmers Branch",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Rudy\u2019s Chicken",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/pages/category/Interest/Rudys-Chicken-60859539026/",
+                "other": "https://www.facebook.com/pages/category/Interest/Rudys-Chicken-60859539026/"
+            },
+            "location": {
+                "location": " | Cedar Crest",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Sharks Fish & Chicken",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.yelp.com/biz/sharks-fish-and-chicken-dallas"
+            },
+            "location": {
+                "location": " | North Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Shells and Tails 2 Geaux",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/shellsandtails2geaux/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/shellsandtails2geaux/"
+            },
+            "location": {
+                "location": " | Food truck, check IG for locations",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Sizzle Soul Kitchen",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/SizzleSoulKitchen/",
+                "other": "https://www.facebook.com/SizzleSoulKitchen/"
+            },
+            "location": {
+                "location": " | Catering",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Soulgood Southern\u2019s Gourmet Kitchen",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/southerngourmetkitchen/",
+                "other": "https://www.facebook.com/southerngourmetkitchen/"
+            },
+            "location": {
+                "location": " | Catering",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "South Dallas Cafe",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.southdallascafe.com/"
+            },
+            "location": {
+                "location": " | South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Southside Steaks & Cakes",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.dallasites101.com/listing/southside-steaks-and-cakes/3051/"
+            },
+            "location": {
+                "location": " | South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Sweet Georgia Brown Home Cooking ",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/SweetGeorgiaBrownHomeCooking/",
+                "other": "https://www.facebook.com/SweetGeorgiaBrownHomeCooking/"
+            },
+            "location": {
+                "location": "| South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "The Breakfast Bar",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.dallasites101.com/listing/the-breakfast-bar/3042/"
+            },
+            "location": {
+                "location": " | South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Thibodeaux\u2019s Cajun",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "http://www.thibodeauxscajuncookin.com/"
+            },
+            "location": {
+                "location": " | Duncanville",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Turkey Leg Paradise",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "http://www.turkeylegparadise.com/"
+            },
+            "location": {
+                "location": " | Cedars",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Sankofa Kitchen",
+            "business_type": "Cajun & Southern",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.sankofakitchen.com/"
+            },
+            "location": {
+                "location": "\u00a0|\u00a0South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        }
+    ],
+    "International": [{
+            "name": "Cafe 214",
+            "business_type": "International",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/cafe214dallas/",
+                "other": "https://www.facebook.com/cafe214dallas/"
+            },
+            "location": {
+                "location": " | Addison",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Caribbean Cabana",
+            "business_type": "International",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.dallasites101.com/listing/caribbean-cabana/2993/"
+            },
+            "location": {
+                "location": " | Farmers Market",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Desta Desta Ethiopian Restaurant",
+            "business_type": "International",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.dallasites101.com/blog/post/for-authentic-ethiopian-fare-head-to-desta-in-northeast-dallas/"
+            },
+            "location": {
+                "location": " | North Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Doc's Street Grill",
+            "business_type": "International",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "http://www.eatdocscatering.com/"
+            },
+            "location": {
+                "location": " | Roanoke, State Fair, pop-ups",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Elaine\u2019s Jamaican Kitchen",
+            "business_type": "International",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/ElainesJamaicanKitchen/",
+                "other": "https://www.facebook.com/ElainesJamaicanKitchen/"
+            },
+            "location": {
+                "location": "\u00a0(pictured) | South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "JS International Grill",
+            "business_type": "International",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.yelp.com/biz/js-international-grill-addison"
+            },
+            "location": {
+                "location": " | Addison",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Pangea Restaurant & Bar",
+            "business_type": "International",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.pangeadallas.com/"
+            },
+            "location": {
+                "location": " | Garland",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Rocio's Handmade Tamales",
+            "business_type": "International",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://rocioshandmadetamales.com/"
+            },
+            "location": {
+                "location": " | Farmers Market",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "The Island Spot",
+            "business_type": "International",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://island-spot.com/"
+            },
+            "location": {
+                "location": " | Carrollton",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        }
+    ],
+    "Vegan & Healthy": [{
+            "name": "Bam\u2019s Vegan",
+            "business_type": "Vegan & Healthy",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.dallasites101.com/listing/bams-vegan/2365/"
+            },
+            "location": {
+                "location": " | Irving",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Benz Body Ambassadors",
+            "business_type": "Vegan & Healthy",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/abenzbody/",
+                "other": "https://www.facebook.com/abenzbody/"
+            },
+            "location": {
+                "location": " | Available online",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Da Munchies",
+            "business_type": "Vegan & Healthy",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.damunchiesdfw.com/"
+            },
+            "location": {
+                "location": " | West Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Fortitude Shakes & Tea",
+            "business_type": "Vegan & Healthy",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/FortitudeWellnessCenter/",
+                "other": "https://www.facebook.com/FortitudeWellnessCenter/"
+            },
+            "location": {
+                "location": " | Cedar Hill",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Invasions",
+            "business_type": "Vegan & Healthy",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.eatinvasions.com/"
+            },
+            "location": {
+                "location": " | East Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "ITSO Vegan",
+            "business_type": "Vegan & Healthy",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.itsovegan.com/"
+            },
+            "location": {
+                "location": " | Grand Prairie",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Manna Juice Bar",
+            "business_type": "Vegan & Healthy",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.drinkmannajuice.com/"
+            },
+            "location": {
+                "location": "Mansfield",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Recipe Oak Cliff",
+            "business_type": "Vegan & Healthy",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.recipeoc.com/"
+            },
+            "location": {
+                "location": " | Oak Cliff",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "TLC Vegan Kitchen",
+            "business_type": "Vegan & Healthy",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.tlcvegankitchen.com/"
+            },
+            "location": {
+                "location": " | Garland",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Vegan Food House",
+            "business_type": "Vegan & Healthy",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.veganfoodhouse.com/"
+            },
+            "location": {
+                "location": " | Bishop Arts",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Vegan Vibrationz",
+            "business_type": "Vegan & Healthy",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/VeganVibrationz/",
+                "other": "https://www.facebook.com/VeganVibrationz/"
+            },
+            "location": {
+                "location": " | Check social media\u00a0for locations",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        }
+    ],
+    "SHOPPING": [{
+            "name": "20SOMETHING",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "http://shop20something.com"
+            },
+            "location": {
+                "location": "online shop",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Accessory Junkie",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.shopaccessoryjunkie.com/"
+            },
+            "location": {
+                "location": " | DeSoto",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Black Pearls Beauty",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://blackpearlsbeauty.com/"
+            },
+            "location": {
+                "location": " | Oak Cliff",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Blacklit",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://iamblacklit.com/"
+            },
+            "location": {
+                "location": " | Farmers Branch",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Brazed Brand Jewelry",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.etsy.com/shop/BrazedBrand"
+            },
+            "location": {
+                "location": " | Online Etsy Store",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Brieslys Boutique",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/pages/category/Women-s-Clothing-Store/Brieslys-Boutique-243989448970360/",
+                "other": "https://www.facebook.com/pages/category/Women-s-Clothing-Store/Brieslys-Boutique-243989448970360/"
+            },
+            "location": {
+                "location": " | Flower Mound",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Bynder Leather Goods",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://byndrleathergoods.com/"
+            },
+            "location": {
+                "location": " | Online store",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Climax Candle Co",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.climaxcandleco.com/"
+            },
+            "location": {
+                "location": " | Online (based in Dallas)",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Creteation Jewelry",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.creteation.com/shop"
+            },
+            "location": {
+                "location": " | The Colony",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Crown Me Craft",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/pg/crownmecraft/posts/?ref=page_internal",
+                "other": "https://www.facebook.com/pg/crownmecraft/posts/?ref=page_internal"
+            },
+            "location": {
+                "location": "online",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Curvy Fox",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://curvyfox.com/"
+            },
+            "location": {
+                "location": " | online",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Dock Bookshop",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.thedockbookshop.com/"
+            },
+            "location": {
+                "location": " | Fort Worth",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Dime Tyme Boutique",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.dimetymeboutique.com/"
+            },
+            "location": {
+                "location": " | Duncanville",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Elite Bodistry",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.elitebodistry.me/"
+            },
+            "location": {
+                "location": " | online",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Enda\u2019s Booktique",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://endasbooktique.com/"
+            },
+            "location": {
+                "location": " | Duncanville",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Expressions Bracelets",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.etsy.com/shop/ExpressionsBracelets"
+            },
+            "location": {
+                "location": " | Etsy boutique",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Flygirl Shop",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://flygirlshop.com/"
+            },
+            "location": {
+                "location": " | online",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Hiruna Bath and Body Products",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.hirunadesigns.com/shop"
+            },
+            "location": {
+                "location": " | Online",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "GLAMORE Boutique",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://glamore4u.com/"
+            },
+            "location": {
+                "location": " | Online",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Gratus Candles",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.gratuscandles.com/about-us/"
+            },
+            "location": {
+                "location": " | online (based in McKinney)",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Indigo 1745",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://indigo1745.com/"
+            },
+            "location": {
+                "location": " | Bishop Arts",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Jacque M",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://shopjacquem.com/collections/new-arrivals"
+            },
+            "location": {
+                "location": " | online",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Konjo Beauty",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://konjobeauty.com/"
+            },
+            "location": {
+                "location": " | online",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Levenity",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.levenity.com/cloth-face-masks"
+            },
+            "location": {
+                "location": " | online",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Real Kustom Kreations",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/Realkustomkreations/",
+                "other": "https://www.facebook.com/Realkustomkreations/"
+            },
+            "location": {
+                "location": " | online",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Roberts Ready to Wear",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/robertsreadytowear/",
+                "other": "https://www.facebook.com/robertsreadytowear/"
+            },
+            "location": {
+                "location": " | South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Pan African Connection",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.panafricanconnection.com/"
+            },
+            "location": {
+                "location": " | Culture resources, bookstore, and art gallery",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Pink Lucy",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.shoppinklucy.com/"
+            },
+            "location": {
+                "location": " | East Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Ritzy Manor Decor",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.ritzymanordecor.com/"
+            },
+            "location": {
+                "location": " | Uptown",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Simpleaf",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://simpleafbrands.com/"
+            },
+            "location": {
+                "location": " | Online",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Sneaker Politics",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://sneakerpolitics.com/"
+            },
+            "location": {
+                "location": "\u00a0(pictured) | Deep Ellum",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Sweetbeat Vodka",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/sweetbeatvodka/",
+                "other": "https://www.facebook.com/sweetbeatvodka/"
+            },
+            "location": {
+                "location": " | Available at liquor stores & bars",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "The Beautifully Divine Brand",
+            "business_type": "SHOPPING",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.beautifullydivinebrand.com/?fbclid=IwAR2DovcU0WYnNsmU-SLdwgoV-kD5VNF8V0C6DqeqDb4beSrnKs3Oy9fu2lU"
+            },
+            "location": {
+                "location": " | online",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        }
+    ],
+    "FITNESS & WELLNESS": [{
+            "name": "Blackburn Woolfolk Dermatology",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.bwderm.com/"
+            },
+            "location": {
+                "location": " | West Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Brow x Monica",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.monicaobeauty.com/"
+            },
+            "location": {
+                "location": " | North Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "BURN Dallas Gym",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.burndallas.com/"
+            },
+            "location": {
+                "location": " | Preston and Forest",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Ceeluxurious - Cecee",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://ceeluxurious.as.me/schedule.php"
+            },
+            "location": {
+                "location": " | Arlington",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Colormuse Nail ",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/colormusenail",
+                "other": "https://www.facebook.com/colormusenail"
+            },
+            "location": {
+                "location": "| Arlington",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Culture Nail Bar",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.culturenailbar.com/"
+            },
+            "location": {
+                "location": " | Arlington",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Dallas Sports Recovery and Massage",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://dallas-sports-recovery-massage.business.site/"
+            },
+            "location": {
+                "location": " | North Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Embellished Braids ",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "http://www.embellishedbraids.com/"
+            },
+            "location": {
+                "location": "| Fairview",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "ExcluShear Salon Inc. ",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.exclushearsalon.com/"
+            },
+            "location": {
+                "location": " | Arlington",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Eyeconic Beaut\u00e9 Bar ",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.vagaro.com/eyeconicbeautebar?fbclid=IwAR1Sp8lbvrNMs3kit-aR1Sdtn5BRF6QQaFVfm5Ys5IqiiXI_iukORqo032o&ig_fbb=true"
+            },
+            "location": {
+                "location": " | The Colony",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Faction Play Circuit Training",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://mindbody.io/locations/faction-play"
+            },
+            "location": {
+                "location": " | Downtown Historic District",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Grit Fitness",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.dallasgritfitness.com/"
+            },
+            "location": {
+                "location": "\u00a0(pictured) | Uptown",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Hammer & Nails",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://hammerandnailsgrooming.com/"
+            },
+            "location": {
+                "location": " | Grooming for guys | Frisco",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Her Secret Garden V-Steam & Spa",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.hersecretgardenvsteam.com/"
+            },
+            "location": {
+                "location": " | Frisco",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "JamBox Fitness Lounge",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.jamboxfitness.com/"
+            },
+            "location": {
+                "location": " | Addison",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "JourneyFit Gym",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.journeyfit.net/"
+            },
+            "location": {
+                "location": " | Richardson",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Kierra Taylor",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.kierrataylor.com/"
+            },
+            "location": {
+                "location": " | Hair",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Koffee Day Spa",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.koffeedayspa.com/"
+            },
+            "location": {
+                "location": " | South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Key\u2019s Beauty Boutique",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://keysbeautyboutique.com/"
+            },
+            "location": {
+                "location": " | Rowlett",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "@nbushedidit",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://instagram.com/nbushedidit?igshid=z1fo3d8emd05",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://instagram.com/nbushedidit?igshid=z1fo3d8emd05"
+            },
+            "location": {
+                "location": " | Denton",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Piety Wellness and Aesthetics ",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.pietywellness.com/"
+            },
+            "location": {
+                "location": "| Mesquite",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "POWERHANDZ",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.powerhandz.com/"
+            },
+            "location": {
+                "location": " | Frisco",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Pressed Roots Salon",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://pressedroots.com/"
+            },
+            "location": {
+                "location": " | Trinity Groves",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Ready Set Flow",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/ReadySetFlow/",
+                "other": "https://www.facebook.com/ReadySetFlow/"
+            },
+            "location": {
+                "location": " | Personal Health Coach",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "SandersFit Performance Center",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://sandersfit.com/"
+            },
+            "location": {
+                "location": " | South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Slay by Simone",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://book.pocketsuite.io/book/g5q7"
+            },
+            "location": {
+                "location": " | Duncanville",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Sugar Suite Lounge ",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "http://www.sugarsuitelounge.com/"
+            },
+            "location": {
+                "location": "| Farmers Branch",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Therapy with Lea",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.lealester.com/"
+            },
+            "location": {
+                "location": "",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "The Home Girl Therapist ",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "http://www.thehomegirltherapist.com/"
+            },
+            "location": {
+                "location": "| Virtual",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Tribe Called Sprinters Run Club ",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://tribecalledsprinters.com/"
+            },
+            "location": {
+                "location": "| Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Union Beauty Lab ",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://unionbeautylab.com/"
+            },
+            "location": {
+                "location": "| Irving",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "V12 Yoga ",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://v12yoga.com/"
+            },
+            "location": {
+                "location": "| Harwood",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Vive Gym",
+            "business_type": "FITNESS & WELLNESS",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://train-vive.com/"
+            },
+            "location": {
+                "location": " | Oak Lawn",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        }
+    ],
+    "SERVICES": [{
+            "name": "Bankem Printing",
+            "business_type": "SERVICES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://bankemprinting.com/"
+            },
+            "location": {
+                "location": " | Arlington",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Bold Babes Co ",
+            "business_type": "SERVICES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.boldbabes.co/"
+            },
+            "location": {
+                "location": " | online resource for millennial women",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Bug You Not Pest Control",
+            "business_type": "SERVICES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/bugyounotdfw/",
+                "other": "https://www.facebook.com/bugyounotdfw/"
+            },
+            "location": {
+                "location": " | Carrollton",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Dallas Truth, Racial Healing & Transformation",
+            "business_type": "SERVICES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://dallastrht.org/"
+            },
+            "location": {
+                "location": " | Community workshops and lectures",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Ecarra",
+            "business_type": "SERVICES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.ecarra.com/"
+            },
+            "location": {
+                "location": " | Rideshare app",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Estrong Marketing",
+            "business_type": "SERVICES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.estrongmarketing.com/"
+            },
+            "location": {
+                "location": " | Marketing",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Estrong Video",
+            "business_type": "SERVICES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.estrongvideos.com/"
+            },
+            "location": {
+                "location": " | Video production",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "G3 Printing",
+            "business_type": "SERVICES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/G3printing/",
+                "other": "https://www.facebook.com/G3printing/"
+            },
+            "location": {
+                "location": " | West Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Geek Pest & Germ Control",
+            "business_type": "SERVICES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.geekpgc.com/"
+            },
+            "location": {
+                "location": " | Plano",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Genie of Dallas ",
+            "business_type": "SERVICES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.windowgenie.com/dallas-central/?utm_medium=organic&utm_source=gmb"
+            },
+            "location": {
+                "location": " | mobile window cleaning",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Giza Printing",
+            "business_type": "SERVICES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.gizaprint.com/"
+            },
+            "location": {
+                "location": " | Deep Ellum",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Grabbacart",
+            "business_type": "SERVICES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.grabbacart.com/"
+            },
+            "location": {
+                "location": " | Grocery delivery | Plano",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Hamilton\u2019s Social Media Marketing & Design Firm",
+            "business_type": "SERVICES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "http://www.hamiltonssocialmedia.com/"
+            },
+            "location": {
+                "location": " | Plano",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Lilac Tattoo Studio",
+            "business_type": "SERVICES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.dallasites101.com/listing/lilac-tattoo-studio/3078/"
+            },
+            "location": {
+                "location": "\u00a0(pictured) | Belmont Park",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Mint Cares",
+            "business_type": "SERVICES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.mintcares.org/index.html"
+            },
+            "location": {
+                "location": " | Family mentor resource",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Nickson Living",
+            "business_type": "SERVICES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://nicksonliving.com/"
+            },
+            "location": {
+                "location": " | Apartment furnishing",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Smith Family Dentistry",
+            "business_type": "SERVICES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.smithfamilydentistrypa.com/"
+            },
+            "location": {
+                "location": " | North Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Steamworks Mobile Detailing and Commercial Cleaning Service ",
+            "business_type": "SERVICES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://steamworksmobile.com/"
+            },
+            "location": {
+                "location": "| Carrollton",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Tremendous Heights",
+            "business_type": "SERVICES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://m.facebook.com/profile.php?id=101743571509584&ref=content_filter",
+                "other": "https://m.facebook.com/profile.php?id=101743571509584&ref=content_filter"
+            },
+            "location": {
+                "location": " | Garage Door Repair and Junk Removal",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Queendom Arts",
+            "business_type": "SERVICES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.queendomarts.com"
+            },
+            "location": {
+                "location": " | Event Production | Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        }
+    ],
+    "CREATIVES": [{
+            "name": "Addie Rawr",
+            "business_type": "CREATIVES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.addierawr.com/menu/"
+            },
+            "location": {
+                "location": "\u00a0(pictured, image courtesy of Addie Rawr) | Art and stationary",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Alex Hudso",
+            "business_type": "CREATIVES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "http://www.thealexhudson.com/"
+            },
+            "location": {
+                "location": "n | Photographer",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Beautiful You Studios",
+            "business_type": "CREATIVES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://beautifulyoustudios.com/"
+            },
+            "location": {
+                "location": " | Photography",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "By Way of Dallas",
+            "business_type": "CREATIVES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://bywayofdallas.com/password"
+            },
+            "location": {
+                "location": " | Designer",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Dallas Black Dance Theatre",
+            "business_type": "CREATIVES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.dallasites101.com/listing/dallas-black-dance-theatre/286/"
+            },
+            "location": {
+                "location": "Arts District",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "KL Photography",
+            "business_type": "CREATIVES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.klphotography.mypixieset.com/"
+            },
+            "location": {
+                "location": " | photographer",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Magnificine",
+            "business_type": "CREATIVES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.magnificine.com/"
+            },
+            "location": {
+                "location": " | Videographer",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Phoenix Michele ",
+            "business_type": "CREATIVES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://phoenixmichele.com/"
+            },
+            "location": {
+                "location": "| Photographer",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "The Amber Studio ",
+            "business_type": "CREATIVES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/theamberstudio/",
+                "other": "https://www.facebook.com/theamberstudio/"
+            },
+            "location": {
+                "location": "| Wedding photographer",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "The Emma Rose Room",
+            "business_type": "CREATIVES",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.theemmaroseroom.com/"
+            },
+            "location": {
+                "location": " | Venue | Irving",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+[{
+    "name": null,
+    "black_owned": false,
+    "ratings": 0,
+    "chill_score": null,
+    "activity_type": null,
+    "weekend_only": false,
+    "business_url": null,
+    "social_media": {
+        "instagram": {
+            "handle": "user_name",
+            "url": "http://"
+        },
+        "twitter": {
+            "handle": "user_name",
+            "url": "http://"
+        }
+    },
+    "location": {
+        "state": null,
+        "city": null,
+        "longitude": null,
+        "latitude": null
+    }
+}]

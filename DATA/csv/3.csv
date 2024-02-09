@@ -1,0 +1,4 @@
+name,business_type,black_owned,ratings,chill_score,activity_type,weekend_only,business_url,social_media.instagram,social_media.twitter,social_media.facebook,social_media.other,location.location,location.address,location.metro,location.state,location.longitude,location.latitude
+BLACKLIT ,book stores,True,,,,False,,,,,https://iamblacklit.com/,Farmers Branch,,DFW,Texas,,
+the dock bookshop ,book stores,True,,,,False,,https://www.instagram.com/the_dock_bookshop/?hl=en,,,https://www.instagram.com/the_dock_bookshop/?hl=en,Fort Worth,,DFW,Texas,,
+pan-african connection ,book stores,True,,,,False,,https://www.instagram.com/pac_dallas/?hl=en,,,https://www.instagram.com/pac_dallas/?hl=en,Cedar Crest,,DFW,Texas,,

@@ -1,0 +1,3395 @@
+{
+    "artists": [{
+        "name": "jeremy biggers ",
+        "business_type": "artists",
+        "black_owned": true,
+        "ratings": null,
+        "chill_score": null,
+        "activity_type": null,
+        "weekend_only": false,
+        "business_url": null,
+        "social_media": {
+            "instagram": "https://www.instagram.com/stemandthorn/?hl=en",
+            "twitter": null,
+            "facebook": null,
+            "other": "https://www.instagram.com/stemandthorn/?hl=en"
+        },
+        "location": {
+            "location": "Dallas, TX",
+            "address": null,
+            "metro": "DFW",
+            "state": "Texas",
+            "longitude": null,
+            "latitude": null
+        }
+    }],
+    "bars / wineries": [{
+            "name": "berkshire farms winery ",
+            "business_type": "bars / wineries",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/berkshire_farms_winery/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/berkshire_farms_winery/?hl=en"
+            },
+            "location": {
+                "location": "Dallas Farmers Market",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "daq's luxury daiquiri lounge ",
+            "business_type": "bars / wineries",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/daqsallfolks/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/daqsallfolks/?hl=en"
+            },
+            "location": {
+                "location": "Plano",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "emerald city bar and grill ",
+            "business_type": "bars / wineries",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/emeraldcitybargrill/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/emeraldcitybargrill/?hl=en"
+            },
+            "location": {
+                "location": "Fair Park",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        }
+    ],
+    "beauty / wellness": [{
+            "name": "BPOLISHED BEAUTY SUPPLY ",
+            "business_type": "beauty / wellness",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/bpolishedbeautysupply/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/bpolishedbeautysupply/"
+            },
+            "location": {
+                "location": "Addison, Arlington, Mesquite",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "koffee day spa ",
+            "business_type": "beauty / wellness",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/koffeedayspa/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/koffeedayspa/?hl=en"
+            },
+            "location": {
+                "location": "Downtown Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "konjo beauty ",
+            "business_type": "beauty / wellness",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/konjobeauty/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/konjobeauty/?hl=en"
+            },
+            "location": {
+                "location": "Online",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "luxxy brow and skin studio ",
+            "business_type": "beauty / wellness",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/luxxybrowandskin/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/luxxybrowandskin/?hl=en"
+            },
+            "location": {
+                "location": "Uptown",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "POSITIVE TOUCH THERAPY LLC  ",
+            "business_type": "beauty / wellness",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "http://www.massagebook.com/biz/positivetouch"
+            },
+            "location": {
+                "location": "Duncanville",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "pressed roots ",
+            "business_type": "beauty / wellness",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/_pressedroots/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/_pressedroots/?hl=en"
+            },
+            "location": {
+                "location": "Trinity Groves",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "royal queen beauty ",
+            "business_type": "beauty / wellness",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/royalqueenbeauty_/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/royalqueenbeauty_/"
+            },
+            "location": {
+                "location": "Fort Worth",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        }
+    ],
+    "book stores": [{
+            "name": "BLACKLIT ",
+            "business_type": "book stores",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://iamblacklit.com/"
+            },
+            "location": {
+                "location": "Farmers Branch",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "the dock bookshop ",
+            "business_type": "book stores",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/the_dock_bookshop/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/the_dock_bookshop/?hl=en"
+            },
+            "location": {
+                "location": "Fort Worth",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "pan-african connection ",
+            "business_type": "book stores",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/pac_dallas/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/pac_dallas/?hl=en"
+            },
+            "location": {
+                "location": "Cedar Crest",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        }
+    ],
+    "coffee shops": [{
+            "name": "black coffee ",
+            "business_type": "coffee shops",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/blackcoffeefw/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/blackcoffeefw/?hl=en"
+            },
+            "location": {
+                "location": "Fort Worth",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "soiree coffee bar ",
+            "business_type": "coffee shops",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/soireecoffeebar/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/soireecoffeebar/?hl=en"
+            },
+            "location": {
+                "location": "Trinity Groves",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        }
+    ],
+    "desserts + snacks": [{
+            "name": "absolutely edible cakes ",
+            "business_type": "desserts + snacks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/absolutelyediblecakes/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/absolutelyediblecakes/?hl=en"
+            },
+            "location": {
+                "location": "Rowlett",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "avery's savory popcorn ",
+            "business_type": "desserts + snacks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/averysavorypopcorn/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/averysavorypopcorn/?hl=en"
+            },
+            "location": {
+                "location": "Downtown Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "cake bar ",
+            "business_type": "desserts + snacks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/cakebartrinitygroves/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/cakebartrinitygroves/?hl=en"
+            },
+            "location": {
+                "location": "Trinity Groves",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "chocolate secrets ",
+            "business_type": "desserts + snacks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/chocolatesecrets/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/chocolatesecrets/?hl=en"
+            },
+            "location": {
+                "location": "Oak Lawn",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "city cafe and bakery ",
+            "business_type": "desserts + snacks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/citycafetogo/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/citycafetogo/?hl=en"
+            },
+            "location": {
+                "location": "Northeast Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "cookie society ",
+            "business_type": "desserts + snacks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/cookiesociety/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/cookiesociety/?hl=en"
+            },
+            "location": {
+                "location": "Frisco",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "delightful sweets by mary ",
+            "business_type": "desserts + snacks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/delightfulsweetsbymary/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/delightfulsweetsbymary/?hl=en"
+            },
+            "location": {
+                "location": "DeSoto",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "fluellen cupcakes ",
+            "business_type": "desserts + snacks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/fluellencupcakes/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/fluellencupcakes/?hl=en"
+            },
+            "location": {
+                "location": "Downtown Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "funnel cake paradise ",
+            "business_type": "desserts + snacks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/funnelcakeparadise4353/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/funnelcakeparadise4353/?hl=en"
+            },
+            "location": {
+                "location": "Duncanville",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "hannah's gluten-free bakery ",
+            "business_type": "desserts + snacks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/hannahsglutenfree/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/hannahsglutenfree/?hl=en"
+            },
+            "location": {
+                "location": "Mesquite",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "kessler baking studio ",
+            "business_type": "desserts + snacks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/kesslerbakingstudio/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/kesslerbakingstudio/?hl=en"
+            },
+            "location": {
+                "location": "Bishop Arts",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "kookie haven ",
+            "business_type": "desserts + snacks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/kookiehaven/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/kookiehaven/?hl=en"
+            },
+            "location": {
+                "location": "Bishop Arts",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "mama moore's gourmet popcorn ",
+            "business_type": "desserts + snacks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/moore_popcorn/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/moore_popcorn/?hl=en"
+            },
+            "location": {
+                "location": "Grand Prairie",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "sinsational cakes ",
+            "business_type": "desserts + snacks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/sinsationalcakes/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/sinsationalcakes/?hl=en"
+            },
+            "location": {
+                "location": "\ud83d\udccdRichland Hills",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "sweetsie's bakery & cafe ",
+            "business_type": "desserts + snacks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/sweetsiebakery/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/sweetsiebakery/?hl=en"
+            },
+            "location": {
+                "location": "DeSoto",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "the cookie crave",
+            "business_type": "desserts + snacks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/the_cookie__crave/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/the_cookie__crave/?hl=en"
+            },
+            "location": {
+                "location": "Denton",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "val's cheesecakes ",
+            "business_type": "desserts + snacks",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/valscheesecakes/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/valscheesecakes/?hl=en"
+            },
+            "location": {
+                "location": "Lower Greenville",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        }
+    ],
+    "fitness studios": [{
+            "name": "grit fitness ",
+            "business_type": "fitness studios",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/gritbybrit/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/gritbybrit/?hl=en"
+            },
+            "location": {
+                "location": "Design District, Addison",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "essence dance academy ",
+            "business_type": "fitness studios",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/essencedanceacademytx/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/essencedanceacademytx/?hl=en"
+            },
+            "location": {
+                "location": "DeSoto",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        }
+    ],
+    "INSURANCE / REAL ESTATE": [{
+        "name": "MPR TITLE ",
+        "business_type": "INSURANCE / REAL ESTATE",
+        "black_owned": true,
+        "ratings": null,
+        "chill_score": null,
+        "activity_type": null,
+        "weekend_only": false,
+        "business_url": null,
+        "social_media": {
+            "instagram": null,
+            "twitter": null,
+            "facebook": null,
+            "other": "https://mprtitle.com"
+        },
+        "location": {
+            "location": "Plano & Arlington",
+            "address": null,
+            "metro": "DFW",
+            "state": "Texas",
+            "longitude": null,
+            "latitude": null
+        }
+    }],
+    "juice bars": [{
+            "name": "bam's vegan smoothies & wraps ",
+            "business_type": "juice bars",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/bamsvegansw/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/bamsvegansw/?hl=en"
+            },
+            "location": {
+                "location": "Hillcrest Oaks",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "duncanville nutrition lounge ",
+            "business_type": "juice bars",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/duncanvillenutrition/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/duncanvillenutrition/?hl=en"
+            },
+            "location": {
+                "location": "Duncanville",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "fortitude wellness center ",
+            "business_type": "juice bars",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/fortitudecedarhill/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/fortitudecedarhill/?hl=en"
+            },
+            "location": {
+                "location": "Cedar Hill",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "manna juice bar ",
+            "business_type": "juice bars",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/mannajuicebar/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/mannajuicebar/?hl=en"
+            },
+            "location": {
+                "location": "Mansfield",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "peace, love, and eatz smoothie bar ",
+            "business_type": "juice bars",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/PeaceLoveEatz/",
+                "other": "https://www.facebook.com/PeaceLoveEatz/"
+            },
+            "location": {
+                "location": "DeSoto",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "three cold pressed juices ",
+            "business_type": "juice bars",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/threecoldpressed/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/threecoldpressed/?hl=en"
+            },
+            "location": {
+                "location": "Mansfield",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        }
+    ],
+    "RESTAURANTS / food trucks / catering": [{
+            "name": "2 Neighbors Hot Chicken ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/2neighborshotchicken/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/2neighborshotchicken/"
+            },
+            "location": {
+                "location": "DeSoto",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "3d daiquiri bar and grill ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/3d_daiquiribar/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/3d_daiquiribar/?hl=en"
+            },
+            "location": {
+                "location": "South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "addis ababa ethiopian restaurant ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/AddisAbabaEthiopianRestaurantDFW/",
+                "other": "https://www.facebook.com/AddisAbabaEthiopianRestaurantDFW/"
+            },
+            "location": {
+                "location": "Richardson",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "arif caf\u00e9 ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.yelp.com/biz/arif-cafe-dallas"
+            },
+            "location": {
+                "location": "Lake Highlands",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "aunt irene's kitchen ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/auntireneskitchen/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/auntireneskitchen/"
+            },
+            "location": {
+                "location": "South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "baby back shak ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/babybackshak/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/babybackshak/"
+            },
+            "location": {
+                "location": "Cedars",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "BLACKJACK PIZZA ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/Dallas-Black-Jack-Pizza-436604479694268/",
+                "other": "https://www.facebook.com/Dallas-Black-Jack-Pizza-436604479694268/"
+            },
+            "location": {
+                "location": "South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "blends daiquiri lounge ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/blendsdaiquiri/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/blendsdaiquiri/"
+            },
+            "location": {
+                "location": "Carrollton",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "blu ice daiquiries ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/bluicedaiquiris/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/bluicedaiquiris/"
+            },
+            "location": {
+                "location": "Arlington",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "brickhouse burgers and shakes ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/brickhouseburgers/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/brickhouseburgers/"
+            },
+            "location": {
+                "location": "Lake Highlands",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "burgerim ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/burgerim/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/burgerim/"
+            },
+            "location": {
+                "location": "Downtown Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "CAfe Delicious ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/cafedeliciousdallas/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/cafedeliciousdallas/"
+            },
+            "location": {
+                "location": "South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "CARIBBEAN CABANA ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/caribbeancabanadfw/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/caribbeancabanadfw/"
+            },
+            "location": {
+                "location": "Dallas Farmers Market",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "CASA DEL VAGANO ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/casa.delvegano/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/casa.delvegano/?hl=en"
+            },
+            "location": {
+                "location": "Bishop Arts",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "CAtfish floyd's ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/catfishfloyds/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/catfishfloyds/?hl=en"
+            },
+            "location": {
+                "location": "South Oak Cliff",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "CAtfish smith ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/catfishsmithdtx/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/catfishsmithdtx/?hl=en"
+            },
+            "location": {
+                "location": "South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "da munchies ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/damunchiesdfw/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/damunchiesdfw/?hl=en"
+            },
+            "location": {
+                "location": "West Dallaa",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "damian's cajun soul cafe ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/damianscajunsoulcafe/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/damianscajunsoulcafe/?hl=en"
+            },
+            "location": {
+                "location": "Arlington",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "desta ethiopian ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/destaethiopiankitchen/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/destaethiopiankitchen/"
+            },
+            "location": {
+                "location": "Northeast Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "dj's steakhouse ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/djssteakhouseaddison/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/djssteakhouseaddison/"
+            },
+            "location": {
+                "location": "Addison",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "elaine's kitchen ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/elaines_kitchen/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/elaines_kitchen/"
+            },
+            "location": {
+                "location": "South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "evan's bbq and catfish ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/Evans-BBQ-Catfish-106545217139",
+                "other": "https://www.facebook.com/Evans-BBQ-Catfish-106545217139"
+            },
+            "location": {
+                "location": "DeSoto",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "faye's place ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/fayesplacedallas/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/fayesplacedallas/"
+            },
+            "location": {
+                "location": "South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "fluffy's chicken ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/fluffyschicken/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/fluffyschicken/"
+            },
+            "location": {
+                "location": "Cedar Hill",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "fred's philly cheesesteaks ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/groups/50632633094/about",
+                "other": "https://www.facebook.com/groups/50632633094/about"
+            },
+            "location": {
+                "location": "Arlington, Carrollton, Plano",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "gojo ethiopian ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/gojoethiopian/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/gojoethiopian/?hl=en"
+            },
+            "location": {
+                "location": "Richardson",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "hall's honey fried chicken ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/hallshoneyfriedchickendtx/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/hallshoneyfriedchickendtx/?hl=en"
+            },
+            "location": {
+                "location": "Medical District",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "hardeman's bbq ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/hardemansbbq_dallastx/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/hardemansbbq_dallastx/"
+            },
+            "location": {
+                "location": "Oak Cliff",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Ibex ethiopian cuisine & bar ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/pages/IBEX-Ethiopian-Cuisine-and-Bar/181009151937544",
+                "other": "https://www.facebook.com/pages/IBEX-Ethiopian-Cuisine-and-Bar/181009151937544"
+            },
+            "location": {
+                "location": "Far North Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "INVASIONs ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/eatinvasion/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/eatinvasion/"
+            },
+            "location": {
+                "location": "Old East Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "the island spot ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/theislandspot/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/theislandspot/"
+            },
+            "location": {
+                "location": "Oak Cliff",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "itso vegan ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/itsovegan/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/itsovegan/"
+            },
+            "location": {
+                "location": "Grand Prairie",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "jamaica gates ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/jamaicagatescaribbeancuisine/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/jamaicagatescaribbeancuisine/"
+            },
+            "location": {
+                "location": "Arlington",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "jazzy joint ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/1jazzyjoint/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/1jazzyjoint/"
+            },
+            "location": {
+                "location": "South Oak Cliff",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "kendall karsen's upscale soul food ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/kendallkarsensupscale/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/kendallkarsensupscale/"
+            },
+            "location": {
+                "location": "Oak Cliff",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "kooly's bbq ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/koolysbbq/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/koolysbbq/"
+            },
+            "location": {
+                "location": "South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "lalibela ethiopian restaurant ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/lalibela_ethiopian_restaurant/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/lalibela_ethiopian_restaurant/"
+            },
+            "location": {
+                "location": "Far North Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "l\u00e8a-l\u00e8a's daiquiri spot ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/L\u00e8a-L\u00e8as-Daiquiri-Spot-300916583868477/",
+                "other": "https://www.facebook.com/L\u00e8a-L\u00e8as-Daiquiri-Spot-300916583868477/"
+            },
+            "location": {
+                "location": "Far North Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "low country cuisine ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/lowcountryquisine/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/lowcountryquisine/"
+            },
+            "location": {
+                "location": "Farmers Branch",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "marrosso cafe ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/marrosso_cafe/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/marrosso_cafe/"
+            },
+            "location": {
+                "location": "North Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "ms. mary's southern kitchen ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/msmaryssk",
+                "other": "https://www.facebook.com/msmaryssk"
+            },
+            "location": {
+                "location": "Carrollton",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "odom's bar-b-que ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/pages/Odom%27s%20BBQ/111597208876479/",
+                "other": "https://www.facebook.com/pages/Odom%27s%20BBQ/111597208876479/"
+            },
+            "location": {
+                "location": "West Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "one love lounge ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/onelovelounge/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/onelovelounge/"
+            },
+            "location": {
+                "location": "Arlington",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "pangea restaurant and bar ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/pangeadallas/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/pangeadallas/"
+            },
+            "location": {
+                "location": "Garland",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "queen of sheba ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/thequeenofshebarestaurant/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/thequeenofshebarestaurant/"
+            },
+            "location": {
+                "location": "North Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Recipe ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/recipeoakcliff/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/recipeoakcliff/?hl=en"
+            },
+            "location": {
+                "location": "Oak Cliff",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Records barbeque ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/records_bbq/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/records_bbq/?hl=en"
+            },
+            "location": {
+                "location": "South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Roots southern table ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/rootssouthtable/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/rootssouthtable/?hl=en"
+            },
+            "location": {
+                "location": "Farmers Branch",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Royal's fried chicken ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/Royals-Fried-Chicken-1038137556225307/",
+                "other": "https://www.facebook.com/Royals-Fried-Chicken-1038137556225307/"
+            },
+            "location": {
+                "location": "Cedar Hill",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Rudy's chicken ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/Rudys-Chicken-60859539026/",
+                "other": "https://www.facebook.com/Rudys-Chicken-60859539026/"
+            },
+            "location": {
+                "location": "South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "sankofa kitchen ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/sankofa_kitchen/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/sankofa_kitchen/"
+            },
+            "location": {
+                "location": "South Oak Cliff",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "savorite's southern cuisine ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/savorite_tx/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/savorite_tx/"
+            },
+            "location": {
+                "location": "Plano",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "shark's fish and chicken ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/sharksfishandchicken/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/sharksfishandchicken/"
+            },
+            "location": {
+                "location": "Lake Highlands",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "sheba's ethiopian kitchen ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/Shebas-Ethiopian-Kitchen-238012822910728/",
+                "other": "https://www.facebook.com/Shebas-Ethiopian-Kitchen-238012822910728/"
+            },
+            "location": {
+                "location": "North Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "shebelle ethiopian cuisine & bar ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/shebelledallas/",
+                "other": "https://www.facebook.com/shebelledallas/"
+            },
+            "location": {
+                "location": "Richardson",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "shells and tails 2 geaux ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/shellsandtails2geaux/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/shellsandtails2geaux/?hl=en"
+            },
+            "location": {
+                "location": "DeSoto",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "sirg wings-n-more ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/sirgwingsnmore/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/sirgwingsnmore/?hl=en"
+            },
+            "location": {
+                "location": "DeSoto",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "skew u ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.yelp.com/biz/skew-u-cedar-hill-3"
+            },
+            "location": {
+                "location": "Dallas (food truck)",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "smoke-a-holics ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/smokeaholicsbbq/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/smokeaholicsbbq/"
+            },
+            "location": {
+                "location": "Fort Worth",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "smokey d'z bbq ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/smkydzbbq/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/smkydzbbq/"
+            },
+            "location": {
+                "location": "Duncanville",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "smokey john's bar-b-que and home cooking",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/smokeyjohnsbbq/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/smokeyjohnsbbq/"
+            },
+            "location": {
+                "location": "Northwest Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "snappy catfish ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/snappyjefferson/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/snappyjefferson/?hl=en"
+            },
+            "location": {
+                "location": "West Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "southern classic daiquiri factory ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/daiquirifactory/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/daiquirifactory/?hl=en"
+            },
+            "location": {
+                "location": "Bryan Place, Fort Worth",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "south dallas cafe ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/southdallascaferedbird/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/southdallascaferedbird/"
+            },
+            "location": {
+                "location": "South Oak Cliff",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "soutHERN GOURMET KITCHEN ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://southerngourmetkitchens.com/"
+            },
+            "location": {
+                "location": "Plano",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "SOUTHSIDE STEAKS & CAKES",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.southsidesteaksandcakes.com/"
+            },
+            "location": {
+                "location": "South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "sweet georgia brown ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/sweetgeorgiabrown_homecooking/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/sweetgeorgiabrown_homecooking/"
+            },
+            "location": {
+                "location": "South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "tasty's chicken ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/tastyschickentx/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/tastyschickentx/"
+            },
+            "location": {
+                "location": "Plano",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "ten 01 bistro ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/ten01uptown/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/ten01uptown/"
+            },
+            "location": {
+                "location": "Uptown",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "the breakfast bar ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.yelp.com/biz/the-breakfast-bar-dallas-3"
+            },
+            "location": {
+                "location": "South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "the coaches box ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/thecoachesbox/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/thecoachesbox/"
+            },
+            "location": {
+                "location": "Duncanville",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "the roux ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/dipintotheroux4u/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/dipintotheroux4u/"
+            },
+            "location": {
+                "location": "Arlington",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "the stuffed potato kitchen",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/thestuffedpotatokitchen/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/thestuffedpotatokitchen/"
+            },
+            "location": {
+                "location": "South Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "thibodeaux's authentic cajun cooking ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/thibodeauxscajuncookin/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/thibodeauxscajuncookin/"
+            },
+            "location": {
+                "location": "Duncanville",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "tj's catfish & wings ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/tjscatfishandwings/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/tjscatfishandwings/"
+            },
+            "location": {
+                "location": "Arlington",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "true kitchen + kocktails ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/kitchenkocktailsdallas/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/kitchenkocktailsdallas/?hl=en"
+            },
+            "location": {
+                "location": "Downtown Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "tu bones bbq ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/tubonesbbq/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/tubonesbbq/"
+            },
+            "location": {
+                "location": "Frisco",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "turkey d.a.m ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/turkeyd.a.m/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/turkeyd.a.m/"
+            },
+            "location": {
+                "location": "Uptown ",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "turkey leg paradise ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/turkeylegparadise/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/turkeylegparadise/"
+            },
+            "location": {
+                "location": "Cedars",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "tx bbq and burgers ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/TXBBQSMOKED/",
+                "other": "https://www.facebook.com/TXBBQSMOKED/"
+            },
+            "location": {
+                "location": "Northwest Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "two podners ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/twopodners/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/twopodners/?hl=en"
+            },
+            "location": {
+                "location": "Fair Park",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "vegan food house ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/houseofveganfood/?hl=en",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/houseofveganfood/?hl=en"
+            },
+            "location": {
+                "location": "Oak Cliff",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "vegan vibrationz ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/veganvibrationz/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/veganvibrationz/"
+            },
+            "location": {
+                "location": "Dallas Farmers Market",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "WEST JAX CIGARS & SPIRITS ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "http://westjaxcigars.com/"
+            },
+            "location": {
+                "location": "Fort Worth",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "wingfield's burgers ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/wingfields/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/wingfields/"
+            },
+            "location": {
+                "location": "Oak Cliff",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "wings world ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/thewingsworld/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/thewingsworld/"
+            },
+            "location": {
+                "location": "Oak Cliff",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "yenat guada ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/yenat_guada/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/yenat_guada/"
+            },
+            "location": {
+                "location": "Lake Highlands",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "v-eats ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/veatsdallas/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/veatsdallas/"
+            },
+            "location": {
+                "location": "West Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "whiskers fish & burgers ",
+            "business_type": "RESTAURANTS / food trucks / catering",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/whiskersfishburgers/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/whiskersfishburgers/"
+            },
+            "location": {
+                "location": "West Dallas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        }
+    ],
+    "shopping": [{
+            "name": "by way of dallas ",
+            "business_type": "shopping",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/bywayofdallas/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/bywayofdallas/"
+            },
+            "location": {
+                "location": "Online",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "good cycle ",
+            "business_type": "shopping",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/goodcycledallas/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/goodcycledallas/"
+            },
+            "location": {
+                "location": "Bishop Arts",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "indigo 1745 ",
+            "business_type": "shopping",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/indigo1745/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/indigo1745/"
+            },
+            "location": {
+                "location": "Bishop Arts",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "olphactory candles ",
+            "business_type": "shopping",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/olphactorycandles/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/olphactorycandles/"
+            },
+            "location": {
+                "location": "Online",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "Remedy E-Design & Decor ",
+            "business_type": "shopping",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": null,
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.remedyhomedecor.com/#/"
+            },
+            "location": {
+                "location": "Online",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "taylor + tess ",
+            "business_type": "shopping",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/taylorandtess/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/taylorandtess/"
+            },
+            "location": {
+                "location": "Deep Ellum",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "the artistry of essential oils ",
+            "business_type": "shopping",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/theartistryofessentialoils/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/theartistryofessentialoils/"
+            },
+            "location": {
+                "location": "Frisco",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "The plant project ",
+            "business_type": "shopping",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/theplantproject__/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/theplantproject__/"
+            },
+            "location": {
+                "location": "State Thomas",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        },
+        {
+            "name": "winding wick candles ",
+            "business_type": "shopping",
+            "black_owned": true,
+            "ratings": null,
+            "chill_score": null,
+            "activity_type": null,
+            "weekend_only": false,
+            "business_url": null,
+            "social_media": {
+                "instagram": "https://www.instagram.com/windingwickcandles/",
+                "twitter": null,
+                "facebook": null,
+                "other": "https://www.instagram.com/windingwickcandles/"
+            },
+            "location": {
+                "location": "Ferris",
+                "address": null,
+                "metro": "DFW",
+                "state": "Texas",
+                "longitude": null,
+                "latitude": null
+            }
+        }
+    ],
+    "hotels": [{
+        "name": "hotel dryce ",
+        "business_type": "hotels",
+        "black_owned": true,
+        "ratings": null,
+        "chill_score": null,
+        "activity_type": null,
+        "weekend_only": false,
+        "business_url": null,
+        "social_media": {
+            "instagram": "https://www.instagram.com/hoteldryce/",
+            "twitter": null,
+            "facebook": null,
+            "other": "https://www.instagram.com/hoteldryce/"
+        },
+        "location": {
+            "location": "Fort Worth",
+            "address": null,
+            "metro": "DFW",
+            "state": "Texas",
+            "longitude": null,
+            "latitude": null
+        }
+    }]
+}
